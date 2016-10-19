@@ -1,1 +1,3 @@
-# StudySession
+# C言語勉強会用リポジトリ
+
+
