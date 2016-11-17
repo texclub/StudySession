@@ -5,4 +5,4 @@
 
 > 2: output.txtに"Hello World!!"と書き込み(今までの内容を削除したうえで出力)
 
-> 3: 3.txtに"Hello World!!"と追記
+> 3: output.txtに"Hello World!!"と追記
